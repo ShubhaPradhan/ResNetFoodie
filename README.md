@@ -2,7 +2,7 @@
 
 This app is Transfer Learning of ResNet50 for Nepali Food Classification. 
 
-Current supports 8 classes = ['chatamari', 'chhoila', 'dalbhat', 'dhindo', 'gundruk', 'kheer', 'momo', 'sekuwa', 'selroti']
+Currently supports 8 food classes = ['chatamari', 'chhoila', 'dalbhat', 'dhindo', 'gundruk', 'kheer', 'momo', 'sekuwa', 'selroti']
 
 Dataset: https://www.kaggle.com/datasets/saurabkunwar/nepali-food-images
 
